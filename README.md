@@ -61,5 +61,5 @@
     <b></b>
   </h2>
 </p>
-<img src = "https://github-readme-stats.vercel.app/api?username=HirushaniGamage&show_icons=true&theme=dark">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HirushaniGamage&layout=compact)](https://github.com/RanasingheTKSA/github-readme-stats&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api?username=SachithWedasingha&show_icons=true&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SachithWedasingha&layout=compact)](https://github.com/RanasingheTKSA/github-readme-stats&theme=dark">
