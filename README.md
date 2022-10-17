@@ -4,14 +4,14 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/RanasingheTKSA" />
   </h2>
 </p>
-- :books: I am currently a undergraduate reading a Bachelor of Information Technology at UCSC.
-- :seedling: I have  experience in Front-End Development ( Angular, React, HTML, CSS, Bootstrap, JavaScript)
-- :seedling: I have  experience in Backend-End Development ( Java Framework , ASP.NET Core, C#)
-- :seedling: I have experience in using Microsoft SQL , MySQL databases.
-- :dancers: I'm looking to collaborate on each and every section that I assign.
-- :thinking_face: I'm looking for help with learning new things very quickly.
-- :speech_balloon: Ask me about me
-- :sparkles: I also work well independently.
+- :books: I am currently a undergraduate reading a Bachelor of Information Technology at UCSC.<br>
+- :seedling: I have  experience in Front-End Development ( Angular, React, HTML, CSS, Bootstrap, JavaScript)<br>
+- :seedling: I have  experience in Backend-End Development ( Java Framework , ASP.NET Core, C#)<br>
+- :seedling: I have experience in using Microsoft SQL , MySQL databases.<br>
+- :dancers: I'm looking to collaborate on each and every section that I assign.<br>
+- :thinking_face: I'm looking for help with learning new things very quickly.<br>
+- :speech_balloon: Ask me about me<br>
+- :sparkles: I also work well independently.<br>
 <h4 align="left">CONNECT WITH ME</h4>
 <p align='left'>
   <a href="https://www.linkedin.com/in/sachith-wedasingha-129485134/">
