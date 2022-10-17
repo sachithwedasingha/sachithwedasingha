@@ -9,7 +9,6 @@
 - :seedling: I have  experience in Backend-End Development ( Java Framework , ASP.NET Core, C#)<br>
 - :seedling: I have experience in using Microsoft SQL , MySQL databases.<br>
 - :dancers: I'm looking to collaborate on each and every section that I assign.<br>
-- :thinking_face: I'm looking for help with learning new things very quickly.<br>
 - :speech_balloon: Ask me about me<br>
 - :sparkles: I also work well independently.<br>
 <h4 align="left">CONNECT WITH ME</h4>
