@@ -8,6 +8,7 @@
 - :seedling: I have  experience in Front-End Development ( Angular, React, HTML, CSS, Bootstrap, JavaScript)<br>
 - :seedling: I have  experience in Backend-End Development ( Java Framework , ASP.NET Core, C#)<br>
 - :seedling: I have experience in using Microsoft SQL , MySQL databases.<br>
+- :thinking_face: I'm looking for a guide to  learn new things very quickly.<br>
 - :dancers: I'm looking to collaborate on each and every section that I assign.<br>
 - :speech_balloon: Ask me about me<br>
 - :sparkles: I also work well independently.<br>
